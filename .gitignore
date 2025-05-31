@@ -1,0 +1,8 @@
+    # macOS
+    .DS_Store
+
+    # Log files
+    *.log
+
+    # Build directory
+    build/

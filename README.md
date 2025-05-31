@@ -37,13 +37,10 @@ Photo Stitcher 是一款用户友好的桌面应用程序，使用 Python 和 Tk
 
 对于 macOS 用户，使用 Photo Stitcher 最简单的方式是下载预编译的应用程序：
 
-1. 前往本项目的 [**Releases 页面**](https://your-repository-url/photo-stitcher/releases)。
-    *(请将 `https://your-repository-url/photo-stitcher/releases` 替换为您项目在 GitHub 上的实际 Releases 页面链接。)*
-2. 下载 `PhotoStitcher.app` 文件。
-3. 首次运行 `PhotoStitcher.app` 时，如果遇到安全警告，您可能需要右键点击应用图标，然后选择"打开"。或者，您可能需要在"系统偏好设置"的"安全性与隐私"中调整设置为允许来自"App Store 和被认可的开发者"的应用。
-4. 应用程序应正常启动。
-
-如果您希望从源代码运行，或者您使用的是其他操作系统，亦或希望参与开发，请参考以下说明。
+1. 前往本项目的 [**Releases 页面**](https://github.com/HoraceLuBFA/photo-stitcher/releases)。
+2. 下载 `PhotoStitcher.zip` 文件。
+3. 解压得到 `PhotoStitcher.app` ，双击或复制到“应用程序”中运行。
+4. 首次运行时，如果遇到安全警告，您可能需要右键点击应用图标，然后选择"打开"。或者，您可能需要在"系统偏好设置"的"安全性与隐私"中调整设置为允许来自"App Store 和被认可的开发者"的应用。
 
 ### 从源码运行
 
@@ -160,14 +157,10 @@ Photo Stitcher is a user-friendly desktop application built with Python and Tkin
 
 For macOS users, the easiest way to use Photo Stitcher is to download the pre-compiled application:
 
-1. Go to the [**Releases Page**](https://your-repository-url/photo-stitcher/releases) of this project.
-    *(Please replace `https://your-repository-url/photo-stitcher/releases` with the actual URL to your project's releases page on GitHub.)*
-2. Download the `PhotoStitcher.app.zip` file (or a similar `.dmg` file if provided).
-3. Unzip the downloaded file to get `PhotoStitcher.app`.
-4. You may need to right-click `PhotoStitcher.app` and select "Open" the first time if you encounter a security warning. Alternatively, you might need to adjust your "Security & Privacy" settings in System Preferences to allow apps from identified developers or "App Store and identified developers".
-5. The application should now start.
-
-If you prefer to run from source, are on a different operating system, or wish to contribute to development, follow the instructions below.
+1. Go to the [**Releases page**](https://github.com/HoraceLuBFA/photo-stitcher/releases) for this project.
+2. Download the `PhotoStitcher.zip` file.
+3. Unzip it to get `PhotoStitcher.app`. Double-click it to run, or copy it to your "Applications" folder.
+4. On the first run, if you encounter a security warning, you might need to right-click the app icon and select "Open". Alternatively, you may need to adjust your settings in "System Preferences" under "Security & Privacy" to allow apps downloaded from "App Store and identified developers".
 
 ### Running from Source
 
@@ -258,7 +251,7 @@ This project is licensed under the MIT License - see the [LICENSE](#license-text
 ```text
 MIT License
 
-Copyright (c) [年份] [版权持有者名称]
+Copyright (c) [2025] [HoraceLuBFA]
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
