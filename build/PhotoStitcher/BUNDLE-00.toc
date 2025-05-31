@@ -1,0 +1,3 @@
+([('PhotoStitcher',
+   '/Users/lumenghe/Developing/Python/photo_stitcher/dist/PhotoStitcher',
+   'EXECUTABLE')],)
