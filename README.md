@@ -57,11 +57,9 @@ Photo Stitcher 是一款用户友好的桌面应用程序，使用 Python 和 Tk
 1. **克隆仓库（或下载源代码）:**
 
     ```bash
-    git clone https://your-repository-url/photo-stitcher.git
+    git clone https://github.com/HoraceLuBFA/photo-stitcher.git
     cd photo-stitcher
     ```
-
-  *(如果您将项目托管在 GitHub 或类似平台，请将 `https://your-repository-url/photo-stitcher.git` 替换为您的实际仓库 URL。)*
 
 2. **安装依赖:**
     建议使用虚拟环境。
@@ -177,11 +175,9 @@ These instructions are for users who want to run the application from its Python
 1. **Clone the repository (or download the source code):**
 
     ```bash
-    git clone https://your-repository-url/photo-stitcher.git
+    git clone https://github.com/HoraceLuBFA/photo-stitcher.git
     cd photo-stitcher
     ```
-
-  *(Please replace `https://your-repository-url/photo-stitcher.git` with your actual repository URL if you host it on GitHub or a similar platform.)*
 
 2. **Install dependencies:**
     It's recommended to use a virtual environment.
