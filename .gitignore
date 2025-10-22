@@ -1,10 +1,10 @@
-    # macOS
-    .DS_Store
+# macOS
+.DS_Store
 
-    # Log files
-    *.log
+# Log files
+*.log
 
-    # Build directory
-    build/
+# Build directory
+build/
 
-    AGENTS.md
+AGENTS.md
